@@ -1,0 +1,177 @@
+{
+  "palabras": [
+    "hola",
+    "como",
+    "estas",
+    "por",
+    "aqui",
+    "todo",
+    "bien",
+    "que",
+    "hacen",
+    "hoy",
+    "ustedes",
+    "necesito",
+    "hablar",
+    "con",
+    "alguien",
+    "serio",
+    "interesante",
+    "tema",
+    "vamos",
+    "a",
+    "revisar",
+    "eso",
+    "ahora",
+    "si",
+    "<@1567990130617098321>",
+    "nesecitas",
+    "pene",
+    "amor",
+    "jeffry",
+    "invitarme",
+    "la",
+    "isla",
+    "es",
+    "down",
+    "necesitas",
+    "hablas",
+    "un",
+    "catalan",
+    "habla",
+    "peor",
+    "autista",
+    "q",
+    "da",
+    "risa",
+    "com",
+    "el",
+    "wacho",
+    "anormal",
+    "hasta",
+    "luis",
+    "se",
+    "preocupa",
+    "te",
+    "acuerdas",
+    "de",
+    "tu",
+    "va",
+    "mejorando",
+    "culo",
+    "o",
+    "tetas",
+    "me",
+    "tira"
+  ],
+  "transiciones": {
+    "ahora": [
+      "si",
+      "hablas",
+      "habla"
+    ],
+    "si": [
+      "<@1567990130617098321>"
+    ],
+    "nesecitas": [
+      "pene"
+    ],
+    "pene": [
+      "amor"
+    ],
+    "jeffry": [
+      "invitarme"
+    ],
+    "invitarme": [
+      "a"
+    ],
+    "a": [
+      "la"
+    ],
+    "la": [
+      "isla"
+    ],
+    "es": [
+      "down",
+      "necesitas",
+      "autista",
+      "q",
+      "anormal"
+    ],
+    "hablas": [
+      "como"
+    ],
+    "como": [
+      "un"
+    ],
+    "un": [
+      "catalan"
+    ],
+    "habla": [
+      "peor",
+      "el",
+      "bien"
+    ],
+    "q": [
+      "da",
+      "me"
+    ],
+    "da": [
+      "risa"
+    ],
+    "risa": [
+      "com"
+    ],
+    "com": [
+      "habla"
+    ],
+    "el": [
+      "wacho"
+    ],
+    "<@1567990130617098321>": [
+      "wacho"
+    ],
+    "anormal": [
+      "<@1567990130617098321>"
+    ],
+    "hasta": [
+      "luis"
+    ],
+    "luis": [
+      "se"
+    ],
+    "se": [
+      "preocupa"
+    ],
+    "amor": [
+      "habla"
+    ],
+    "bien": [
+      "<@1567990130617098321>"
+    ],
+    "te": [
+      "acuerdas"
+    ],
+    "acuerdas": [
+      "de"
+    ],
+    "de": [
+      "tu"
+    ],
+    "tu": [
+      "isla"
+    ],
+    "va": [
+      "mejorando"
+    ],
+    "culo": [
+      "o"
+    ],
+    "o": [
+      "tetas"
+    ],
+    "me": [
+      "tira"
+    ]
+  }
+}
