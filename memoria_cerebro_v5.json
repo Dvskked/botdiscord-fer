@@ -1,0 +1,91 @@
+{
+  "vocabulario": [
+    "calle",
+    "vida",
+    "noche",
+    "sistema",
+    "dinero",
+    "control",
+    "fuego",
+    "sombra",
+    "real",
+    "pesado",
+    "humano",
+    "tiempo",
+    "camino",
+    "historia",
+    "maquina",
+    "poder",
+    "neptun",
+    "jajalskdajd",
+    "perro",
+    "ijueputa",
+    "quieres",
+    "dime",
+    "que",
+    "meten",
+    "amiguito",
+    "server",
+    "toco",
+    "todas",
+    "las",
+    "noches",
+    "amigo"
+  ],
+  "conexiones": {
+    "perro": [
+      "ijueputa"
+    ],
+    "quieres": [
+      "dinero"
+    ],
+    "que": [
+      "meten"
+    ],
+    "meten": [
+      "amiguito"
+    ],
+    "amiguito": [
+      "neptun"
+    ],
+    "neptun": [
+      "server"
+    ],
+    "toco": [
+      "todas"
+    ],
+    "todas": [
+      "las"
+    ],
+    "las": [
+      "noches"
+    ],
+    "noches": [
+      "amigo"
+    ]
+  },
+  "multilingue": [
+    "this is how it works",
+    "no hay vuelta atras",
+    "todo sigue igual",
+    "das ist der lauf der welt",
+    "el tiempo corre",
+    "nada es lo que parece",
+    "time to move on",
+    "todo esta controlado",
+    "no surprises here"
+  ],
+  "triggersEspeciales": {
+    "neptun": [
+      "MI ALIADO NEPTUN",
+      "NEPTUN ESTA EN LA ZONA",
+      "NADIE TOCA A NEPTUN",
+      "EL JEFE NEPTUN MANDA"
+    ],
+    "neptunzinho": [
+      "EL DIOS NEPTUNZINHO",
+      "LA PUTA CABRA NEPTUNZINHO",
+      "RESPETO PARA NEPTUNZINHO"
+    ]
+  }
+}
